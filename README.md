@@ -1,7 +1,5 @@
 # Análise Não Supervisionada de Incidentes Rodoviários
 
-![ISCTE Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_ISCTE-IUL.svg/200px-Logo_ISCTE-IUL.svg.png)
-
 ## Âmbito do Projeto
 
 Este projeto tem como objetivo a aplicação de técnicas da UC ** Métodos de Aprendizagem Não Supervisionada** numa base de dados de incidentes rodoviários. 
