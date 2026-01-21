@@ -1,5 +1,9 @@
 # Análise Não Supervisionada de Incidentes Rodoviários
 
+**ISCTE**
+**Métodos de Aprendizagem Não Supervisionada**
+**2025/2026**
+
 ## Âmbito do Projeto
 
 Este projeto tem como objetivo a aplicação de técnicas da UC ** Métodos de Aprendizagem Não Supervisionada** numa base de dados de incidentes rodoviários. 
